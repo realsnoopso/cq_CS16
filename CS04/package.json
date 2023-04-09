@@ -1,0 +1,14 @@
+{
+  "name": "CS04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test-init.js && node test-setSize.js && node test-malloc.js && node test-free.js && node test-call.js && node test-garbageCollect.js && node test-returnFrom.js && node test-callStack.js && node test-etc.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

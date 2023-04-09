@@ -1,0 +1,17 @@
+{
+  "name": "CS05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "dev": "nodemon --exec node --loader ts-node/esm server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.6.2"
+  }
+}
