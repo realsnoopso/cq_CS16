@@ -19,3 +19,6 @@
 14. 데이터베이스 학습 및 실습
 15. 데이터베이스 학습 및 Docker & Mysql 연동 실습
 16. Git 학습
+
+# 스터디 소감
+https://velog.io/@realsnoopso/%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C-CS-%EA%B3%BC%EC%A0%95-%ED%9A%8C%EA%B3%A0
